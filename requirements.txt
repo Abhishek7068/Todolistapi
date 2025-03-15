@@ -4,3 +4,4 @@ bson
 cors
 pydantic
 uvicorn
+fastapi
