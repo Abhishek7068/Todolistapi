@@ -1,5 +1,5 @@
+pymongo
 motor
-bson
 cors
 pydantic
 uvicorn
