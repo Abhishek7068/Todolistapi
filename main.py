@@ -3,7 +3,6 @@ from fastapi import FastAPI, HTTPException
 from motor.motor_asyncio import AsyncIOMotorClient
 from pydantic import BaseModel
 from bson import ObjectId
-from pymongo import SON 
 from fastapi.middleware.cors import CORSMiddleware
 
 
