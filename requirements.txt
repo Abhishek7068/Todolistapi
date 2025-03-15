@@ -4,3 +4,4 @@ cors
 pydantic
 uvicorn
 fastapi
+bson
