@@ -6,6 +6,7 @@ from pydantic import BaseModel
 from bson import ObjectId
 from fastapi.middleware.cors import CORSMiddleware
 
+
 app = FastAPI()
 
 app.add_middleware(
